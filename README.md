@@ -60,12 +60,12 @@ The goal is to extract meaningful insights from data using **Python, SQL, and Po
 * Performed **SQL queries** for aggregation, joins, and insights extraction.
 * Example queries:
 
-  ```sql
+```sql
 select gender, SUM(purchase_amount) as revenue
 from customer
 group by gender;
 
-  ```
+```
 
 ### 5. Power BI Dashboard
 
